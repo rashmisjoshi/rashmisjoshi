@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Rashmi Joshi 👋</h1>
 <h3 align="center">Passionate Learner & Experienced Leader</h3>
 <p align="center">Currently heading Zappkode Solutions while exploring the depths of Machine Learning, Deep Learning, and Data Analytics.</p>
-🔭 Current Focus: Leading Zappkode Solutions and developing Python Projects.
-🌱 Learning: Advancing my skills in Machine Learning, Deep Learning, and Power BI.
-👨‍💻 Projects: Explore my work at GitHub Profile.
-💬 Expertise: Python, Django, MySQL, Power BI.
+🔭 Current Focus: Leading Zappkode Solutions and developing Python Projects.<br>
+🌱 Learning: Advancing my skills in Machine Learning, Deep Learning, and Power BI.<br>
+👨‍💻 Projects: Explore my work at GitHub Profile.<br>
+💬 Expertise: Python, Django, MySQL, Power BI.<br>
 📫 Reach Out: Email me at rashmi.jo0704@gmail.com.
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
